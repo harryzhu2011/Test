@@ -1,4 +1,3 @@
-
 {
 		"title": "Uploads from everyone",
 		"link": "https:\/\/www.flickr.com\/photos\/",
